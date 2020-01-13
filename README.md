@@ -1,2 +1,2 @@
 # urban3d_master
-building extraction, pytorch, UNet,
+building extraction, pytorch, UNet
