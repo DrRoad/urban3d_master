@@ -6,4 +6,4 @@ https://spacenetchallenge.github.io/datasets/Urban_3D_Challenge_summary.html
 # model
 You can choose one of these models, including Unet, Linknet, FPN, PSPNet.
 # PS
-If you want to use this code directly, just do it.Before running this code, you must set the path of your dataset in the specified direction, such as "./data/train_images".
+If you want to use this code directly, just do it.Before running this code, you must set the path of your dataset in the specified directory, such as "./data/train_images".
